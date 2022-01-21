@@ -96,6 +96,97 @@
     {
      "data": {
       "text/plain": [
+       "'⬜⬜⬜⚪⚫⬜⬜⬜'"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/plain": [
+       "'⬜⬜⬜⬜⬜⬜⬜⬜'"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/plain": [
+       "'⬜⬜⬜⬜⬜⬜⬜⬜'"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/plain": [
+       "'⬜⬜⬜⬜⬜⬜⬜⬜'"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "display('⬜⬜⬜⬜⬜⬜⬜⬜')\n",
+    "display('⬜⬜⬜⬜⬜⬜⬜⬜')\n",
+    "display('⬜⬜⬜⬜⬜⬜⬜⬜')\n",
+    "display('⬜⬜⬜⚫⚪⬜⬜⬜')\n",
+    "display('⬜⬜⬜⚪⚫⬜⬜⬜')\n",
+    "display('⬜⬜⬜⬜⬜⬜⬜⬜')\n",
+    "display('⬜⬜⬜⬜⬜⬜⬜⬜')\n",
+    "display('⬜⬜⬜⬜⬜⬜⬜⬜')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'⬜⬜⬜⬜⬜⬜⬜⬜'"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/plain": [
+       "'⬜⬜⬜⬜⬜⬜⬜⬜'"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/plain": [
+       "'⬜⬜⬜⬜⬜⬜⬜⬜'"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/plain": [
+       "'⬜⬜⬜⚫⚪⬜⬜⬜'"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/plain": [
        "'⬜⬜⬜⚪⚫⚪⬜⬜'"
       ]
      },
@@ -143,7 +234,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 4,
+   "execution_count": 5,
    "metadata": {},
    "outputs": [
     {
